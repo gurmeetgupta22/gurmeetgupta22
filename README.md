@@ -97,13 +97,13 @@ A comprehensive AI-powered educational tool that helps students master complex s
 <div align="center">
 
 <!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurmeetGupta&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurmeetgupta22&theme=github_dark" alt="Profile Details" />
 
 <!-- Stats Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GurmeetGupta&theme=github_dark" alt="Stats Card" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurmeetgupta22&theme=github_dark" alt="Stats Card" />
 
 <!-- Language Usage -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GurmeetGupta&theme=github_dark" alt="Language Usage" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurmeetgupta22&theme=github_dark" alt="Language Usage" />
 
 </div>
 
