@@ -123,9 +123,9 @@ A comprehensive AI-powered educational tool that helps students master complex s
 I'm always interested in discussing AI, machine learning, and building projects that make a real impact. Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gurmeet-gupta-dev)
-- 🐙 [GitHub](https://github.com/GurmeetGupta)
-- 📧 Email:(hanu224466@gmail.com)
-- 🌐 Portfolio:(https://g-dev22.github.io/My-Portfolio/)
+- 🐙 [GitHub](https://github.com/gurmeetgupta22)
+- 📧 Email:(guptagurmeet00@gmail.com)
+- 🌐 Portfolio:(https://gurmeetgupta22.github.io/My-Portfolio/)
 
 ---
 
