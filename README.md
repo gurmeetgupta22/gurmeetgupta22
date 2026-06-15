@@ -8,15 +8,6 @@ Currently, I'm developing AI-powered applications designed to make learning more
 
 ---
 
-## 🎮 Watch Me Code
-
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Pacman eating code" />
-
-</div>
-
 ## 🚀 What I'm Working On
 
 - Building intelligent educational tools powered by AI
@@ -25,58 +16,6 @@ Currently, I'm developing AI-powered applications designed to make learning more
 - Creating accessible solutions that enhance student learning experiences
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-<!-- First Row: Python, JS, CSS, HTML -->
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:40px; margin-bottom:40px;">
-
-  <!-- Python -->
-  <div style="text-align:center;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNyODN6YThsMWt4Zm43OXV0dzZxMmFrdXM1bmtkYnk2aTFoZmZiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif" alt="Python" width="80" />
-    <div><b>Python</b></div>
-  </div>
-
-  <!-- JavaScript -->
-  <div style="text-align:center;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjliZDRpc3d0dzE4MnB5czI5dTNtZ3Z1cmM2azhjc3c3YXFyZTZpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TmPb7vBn0bdJ9TMEhi/giphy.gif" alt="JavaScript" width="80" />
-    <div><b>JavaScript</b></div>
-  </div>
-
-  <!-- CSS -->
-  <div style="text-align:center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZmNGl2c3g1MmgycGE2cDh6cTM0ODBwb3dtcmFyb3lqYnhmbHRqeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/w7j1Bivh2hvIbhDYO8/giphy.gif" alt="CSS" width="80" />
-    <div><b>CSS</b></div>
-  </div>
-
-  <!-- HTML -->
-  <div style="text-align:center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIwM2Z1bDNsd3YwazBudHV5ZDh2dno5aDNnbGJjY2NueWg0eTQ2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aS0GZVzspYuro33Fxx/giphy.gif" alt="HTML" width="80" />
-    <div><b>HTML</b></div>
-  </div>
-
-</div>
-
-<!-- Second Row: FastAPI + ChatGPT horizontally -->
-<div style="display:flex; justify-content:center; gap:60px;">
-
-  <!-- FastAPI -->
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" width="80" />
-    <div><b>FastAPI</b></div>
-  </div>
-
-  <!-- ChatGPT -->
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" width="80" />
-    <div><b>ChatGPT</b></div>
-  </div>
-
-</div>
-
-</div>
-
-
 
 ## 📚 Featured Projects
 
