@@ -143,25 +143,19 @@ class Gurmeet:
 
 ---
 
-## 📊 GitHub Stats
+## ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurmeetgupta22&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurmeetgupta22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=gurmeetgupta22&show_icons=true&theme=github_dark&hide_border=true" alt="Gurmeet's GitHub Stats" />
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurmeetgupta22&layout=compact&theme=github_dark&hide_border=true" alt="Gurmeet's Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurmeetgupta22&theme=github-dark-blue&hide_border=true&background=0d1117" />
+<br/>
 
-</div>
-
-<div align="center">
-
-<!-- Contribution snake animation — generate this at: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/gurmeetgupta22/gurmeetgupta22/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurmeetgupta22&theme=github-dark-blue&hide_border=true" alt="Gurmeet's GitHub Streak" />
 
 </div>
 
