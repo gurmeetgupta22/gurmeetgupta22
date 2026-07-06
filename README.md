@@ -143,22 +143,30 @@ class Gurmeet:
 
 ---
 
-## ## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurmeetgupta22&show_icons=true&theme=github_dark&hide_border=true" alt="Gurmeet's GitHub Stats" />
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=gurmeetgupta22&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Gurmeet's GitHub Stats"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurmeetgupta22&layout=compact&theme=github_dark&hide_border=true" alt="Gurmeet's Top Languages" />
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gurmeetgupta22&layout=compact&theme=github_dark&hide_border=true"
+  alt="Gurmeet's Top Languages"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurmeetgupta22&theme=github-dark-blue&hide_border=true" alt="Gurmeet's GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=gurmeetgupta22&theme=github-dark-blue&hide_border=true"
+  alt="Gurmeet's GitHub Streak"
+/>
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
