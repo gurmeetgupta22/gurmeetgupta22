@@ -14,9 +14,6 @@
   <a href="mailto:guptagurmeet00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://gurmeetgupta22.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=gurmeetgupta22&style=flat-square&color=58A6FF&label=Profile+Views" />
-
 </div>
 
 ---
